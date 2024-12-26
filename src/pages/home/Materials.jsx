@@ -1,8 +1,7 @@
-
-import material3 from "../../assets/material3.png"
-import material1 from "../../assets/material1.png"
-import material2 from "../../assets/material2.png"
-import Button from '../../components/Button'
+import material1 from "../../assets/material1.png";
+import material2 from "../../assets/material2.png";
+import material3 from "../../assets/material3.png";
+import Button from "../../components/Button";
 
 const Materials = () => {
   return (

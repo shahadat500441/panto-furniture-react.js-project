@@ -1,4 +1,4 @@
-import Footer from "../../components/Footer"
+
 import Products from "../shop/Products"
 import Experiences from "./Experiences"
 import Hero from "./Hero"
